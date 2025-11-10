@@ -101,7 +101,7 @@ nav a.active {
   opacity: 1;
 }
 
-/* Responsive Design */
+
 @media (max-width: 900px) {
   .intro {
     flex-direction: column;
@@ -127,3 +127,4 @@ nav a.active {
     height: 80px;
   }
 }
+
